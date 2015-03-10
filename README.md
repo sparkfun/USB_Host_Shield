@@ -16,3 +16,5 @@ License Information
 The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Distributed as-is; no warranty is given.
+
+_Check out the original USB Host Shield site from Circuits@Home [here](http://www.circuitsathome.com/arduino_usb_host_shield_projects)._
